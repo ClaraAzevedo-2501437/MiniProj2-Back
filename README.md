@@ -1,2 +1,3 @@
-# MiniProj2-Back
-Animalec Back-end
+
+# Postman documentation
+https://documenter.getpostman.com/view/3754041/SW7exkHe?version=latest
